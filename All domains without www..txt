@@ -27467,7 +27467,7 @@ ebates.com
 ebatesgiftcards.ca
 ebay.at
 ebay.be
-ebay.ca
+https://ebay.ca
 ebay.com
 ebay.com.au
 ebay.de
